@@ -16,6 +16,7 @@
     - greenballs
     - envinject
     - shiningpanda
+    - jclouds-jenkins
     hostname: jenkins.ipython.org
     server_credential_root: /etc/ssl/private
     server_cert: jenkins.ipython.org.crt
